@@ -11,7 +11,7 @@
 - **Multi-Platform Support:**
   - Windows 10 64-bit
   - Windows 11
-  - Windows on Arm
+
 - **Multi-Language Support:**
   - English
   - Simplified Chinese
