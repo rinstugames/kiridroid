@@ -16,7 +16,7 @@
   - English
   - Simplified Chinese
   - Traditional Chinese
-  - Cantonese (Yue Chinese)
+  - Cantonese
   - Korean
   - Japanese
   - Russian
